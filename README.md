@@ -3,7 +3,6 @@
 **Reinos Perna** é um plugin para Minecraft que simula um efeito de "perna quebrada" no jogador, com penalidades de lentidão e outros efeitos. Os jogadores podem se curar usando um comando ou item específico.
 
 Plugin criado para o servidor **Reinos Survival**
-Codado por: lucasdeveloperx
 
 ## Funcionalidades
 
